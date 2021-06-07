@@ -1,5 +1,0 @@
-유휴, Idle
-걷기, Walk
-달리, Run
-공격01,Attack01
-공격02, Attack02

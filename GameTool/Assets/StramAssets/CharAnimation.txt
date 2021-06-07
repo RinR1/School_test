@@ -1,0 +1,6 @@
+유휴(Idle),Carry-Idle
+걷기,Carry-WalkForward
+줍는 동작,Carry-Pickup
+받는 동작,Carry-Recieve
+내려 놓는 동작,Carry-Putdown
+손 동작,Carry-Handoff

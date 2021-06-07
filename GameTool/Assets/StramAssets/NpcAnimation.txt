@@ -1,0 +1,5 @@
+유휴(Idle), idle1
+유휴(Idle)2, idle2
+유휴(Idle)3, idle3
+대화1, coms1
+대화2, coms2

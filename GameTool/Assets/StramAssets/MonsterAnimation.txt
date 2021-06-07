@@ -1,0 +1,4 @@
+유휴(Idle), idle
+걷기, walk
+공격1, attack1
+공격2, attack2

@@ -1,9 +1,0 @@
-유휴, Idle
-걷기, Walk
-공격01, Attack01
-공격02, Attack02
-공격03, Attack03
-스킬01, Skill01
-스킬02, Skill02
-스킬03, Skill03
-스킬04, Skill04
